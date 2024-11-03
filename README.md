@@ -1,4 +1,4 @@
-Loan Approval Intelligence System
+Loan Approval Intelligence System,
 Problem Statement:
 In the financial sector, accurately predicting loan approvals is essential to managing credit risk. Traditional loan evaluation methods, based on applicants’ credit scores and financial profiles, often fail to capture complex relationships in the data, resulting in suboptimal decisions—either high-risk loans are granted or low-risk applicants are denied.
 
